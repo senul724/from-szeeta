@@ -1,0 +1,26 @@
+{
+  "name": "project-x-contracts",
+  "version": "1.0.0",
+  "description": "Meh bn, ubalata code eka run kranna beri wei, router eke podi case ekk awilla update ekk hinda. Error ekk neme, baya wenna epa ;)",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projext-zen/contracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/projext-zen/contracts/issues"
+  },
+  "homepage": "https://github.com/projext-zen/contracts#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "@truffle/hdwallet-provider": "^2.0.3"
+  }
+}

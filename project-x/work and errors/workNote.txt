@@ -1,0 +1,8 @@
+Removed strings library from tickets contract and added bytes32 implementation.
+No errors in that but test it before use.
+
+check the withdraw function in the router, check wheather you can call it from the router.
+
+when calling factory data check the how index works
+
+find how to add the signer when calling a Set FUnction in ethers.js(ss added)

@@ -1,0 +1,18 @@
+gas cost with events for everything = 4,563,449
+gas cost after removing unwanted events = 4,405,333
+coverted strings to bytes32 = 4,405,909
+changed back = 4,405,333
+removed safemath = 4,381,348
+uint optimized = 4675698 :(
+undo uint optimization =  4,381,348
+checked in event removed = 4,356,727
+removed bulk add contributors = 4,270,780
+removed check and mark = 4,071,067
+
+//just for test
+removed mint = 3,716,106
+
+//re-organizing
+final = 4,152,465
+removed events = 4,104,372
+developed router = 3,875,566
